@@ -15,6 +15,12 @@ If you would like to use this dashboard locally, you will need both [R](https://
 * `htmltools`
 * `plyr`
 
+You can install these packages using the following command:
+
+``` r
+install.packages(c("shiny","leaflet","dygraphs","dplyr","lubridate","readr","xts","htmltools","plyr"))
+```
+
 ## View
 
 After cloning/downloading this repo, you can view this app in a local R session using the following:

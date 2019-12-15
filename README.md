@@ -35,7 +35,7 @@ shiny::runApp("path/to/tidedashboard/non-modelled/")
 ```
 for non-modelled data.
 
-**Online**
+### Online
 
 Dashboards containing both [modelled](https://z-lab.shinyapps.io/tidedashboard-modelled/) and [non-modelled](https://z-lab.shinyapps.io/tide-dashboard/) data have been published at [shinyapps.io](https://www.shinyapps.io/).
 

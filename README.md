@@ -1,6 +1,6 @@
 # A simple tide viewer
 
-![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg) 
+[![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg)](https://github.com/zibbini/tidedashboard/blob/master/LICENSE)
 
 An interactive dashboard built with `shiny`, `leaflet` and `dygraphs` for viewing both historic and modelled tide data in Ireland. Data can be manually subsetted via station and date, using both reactive inputs and a leaflet map. Selected data is then visualised in an interactive dygraphs plot. All data for the published dashboards was sourced from the [Marine Institute](https://www.marine.ie/Home/home) in Ireland. 
 
